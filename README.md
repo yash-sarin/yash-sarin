@@ -180,7 +180,7 @@ A collection of projects exploring AI, language processing, deep learning and ro
 <tr>
 <td width="50%" valign="top">
 
-### 01 — 📄 PaperMind AI
+### <a href="https://github.com/yash-sarin/PaperMind-AI">01 — 📄 PaperMind AI</a>
 
 **Research Intelligence**
 
@@ -285,14 +285,11 @@ A convolutional neural network approach to bearing fault identification using vi
 
 Technologies and tools used across my development and learning journey.
 
-
-<div align="center">
-
-### 01 — AI & MACHINE LEARNING
+<h3 align="center">01 — AI &amp; MACHINE LEARNING</h3>
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,cpp&theme=dark" alt="Python, TensorFlow, PyTorch, Scikit-learn and C++"/>
 
-### 02 — DATA SCIENCE & INTELLIGENT SYSTEMS
+<h3 align="center">02 — DATA SCIENCE &amp; INTELLIGENT SYSTEMS</h3>
 
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -300,18 +297,18 @@ Technologies and tools used across my development and learning journey.
 <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-312E81?style=for-the-badge"/>
 
-### 03 — DEVELOPMENT & VERSION CONTROL
+<h3 align="center">03 — DEVELOPMENT &amp; VERSION CONTROL</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub"/>
 
-### 04 — VISUALIZATION & RESEARCH TOOLS
+<h3 align="center">04 — VISUALIZATION &amp; RESEARCH TOOLS</h3>
 
 <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 
-### ADDITIONAL TECHNICAL SKILLS
+<h3 align="center">ADDITIONAL TECHNICAL SKILLS</h3>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
 <img src="https://img.shields.io/badge/KERAS-D00000?style=flat-square"/>
@@ -321,7 +318,6 @@ Technologies and tools used across my development and learning journey.
 <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square"/>
 
 </div>
-
 
 ---
 
@@ -426,17 +422,17 @@ A snapshot of my coding activity and repository statistics.
 
 <br/><br/>
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarinyash551-lgtm&theme=tokyonight" alt="GitHub profile summary"/>
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-sarin&theme=tokyonight" alt="GitHub profile summary"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarinyash551-lgtm&theme=tokyonight" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-sarin&theme=tokyonight" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarinyash551-lgtm&theme=tokyonight" alt="Most used programming languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yash-sarin&theme=tokyonight" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=yash-sarin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
